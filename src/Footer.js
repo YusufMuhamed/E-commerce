@@ -31,12 +31,12 @@ export class Footer extends Component {
                 <div>
                   <FaFacebookF />
                 </div>
-                <div>
+                {/* <div>
                   <AiOutlineTwitter />
                 </div>
                 <div>
                   <GrPinterest />
-                </div>
+                </div> */}
               </div>
             </Col>
             <Col lg="5" md="5" sm="12">
