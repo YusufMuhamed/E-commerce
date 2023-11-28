@@ -25,7 +25,7 @@ function BasicExample() {
               SHOP
             </NavLink>
             <NavLink to="/" className="img1 ">
-              Fashion Founders
+              Fashion Founders3
             </NavLink>
             <NavLink to="#link" className="itemsr">
               ContactUs
